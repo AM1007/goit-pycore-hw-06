@@ -1,10 +1,10 @@
-## Basic robotics with classes
+## The basics of working with classes
 
-> [!IMPORTANT] ☝ Our home robots will continue to develop our virtual assistant with a CLI interface.
+> [!IMPORTANT] ☝ In this homework, we will continue to develop our virtual assistant with a CLI interface.
 
 Our assistant is already interacting with the client for the additional command line, removing commands, arguments, and other necessary actions. Whose assistant will need to learn about the internal logic of the assistant, how data is stored, what data itself is and what can be generated from it.
 
-> [!IMPORTANT] ☝ We will add the logic itself to the bot in the upcoming home plant.
+> [!IMPORTANT] ☝ We will add the logic itself to the bot in the next homework.
 
 We will use object-oriented programming for these purposes. First, we will select several entities (models) with which we will work.
 
